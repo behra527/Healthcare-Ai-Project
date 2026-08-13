@@ -84,17 +84,13 @@ These metrics were used to compare the performance of the trained models.
 ## Project Structure
 
 ```text
-Healthcare-Ai-Project/
-│
-├── notebooks/
-│   └── healthcare_ai_project.ipynb
-│
-├── data/
-│   └── healthcare_dataset.csv
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+
+
+
+- `notebooks/healthcare_ai_project.ipynb` - Main Jupyter Notebook containing data analysis and machine learning workflow
+- `README.md` - Project documentation
+- `requirements.txt` - Required Python libraries
+- `.gitignore` - Files excluded from Git tracking
 
 The healthcare dataset and trained model files are excluded from Git tracking because of file size and repository management considerations.
 
