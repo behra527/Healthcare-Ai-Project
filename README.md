@@ -69,6 +69,8 @@ The models were evaluated using the following metrics:
 - Classification Report
 
 These metrics were used to compare the performance of the trained models.
+## Models Wights link 
+https://drive.google.com/drive/folders/1Orfk2hC_Bk71QqmmMlJClZYfgxP4SXyL?usp=sharing
 
 ## Technologies Used
 
