@@ -50,6 +50,43 @@ The models were evaluated using:
 
 ## Saved Models
 
+Project Structure
+Healthcare_AI_Project/
+│
+├── data/
+│   └── healthcare_dataset.csv
+│
+├── healthcare_ai_project.ipynb
+│
+├── logistic_regression_model.pkl
+├── random_forest_model.pkl
+├── svm_model.pkl
+├── scaler.pkl
+│
+├── README.md
+└── requirements.txt
+Installation
+
+Clone the repository and install the required dependencies:
+
+pip install -r requirements.txt
+Running the Project
+
+Open the Jupyter Notebook:
+
+jupyter notebook
+
+Then open:
+
+healthcare_ai_project.ipynb
+
+Run the notebook cells in order to reproduce the analysis and model training process.
+
+Conclusion
+
+This project demonstrates a complete machine learning workflow using healthcare data. It covers data analysis preprocessing feature engineering visualization model training evaluation and model saving.
+
+The project was developed as a practical implementation of the machine learning concepts learned during the week and is organized for further development and deployment.
 The trained models are saved using Joblib:
 
 ```text
